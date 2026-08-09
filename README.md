@@ -8,7 +8,7 @@
 
   **Now owned and maintained by Ossium**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-black?style=for-the-badge)](https://repolyze.ossium.live)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-black?style=for-the-badge)](https://repolyze.ossium.in)
 [![GitHub Stars](https://img.shields.io/github/stars/OssiumOfficial/Repolyze?style=for-the-badge&logo=github&color=yellow)](https://github.com/OssiumOfficial/Repolyze)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](./CODE_OF_CONDUCT.md)
